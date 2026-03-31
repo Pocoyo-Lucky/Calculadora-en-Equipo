@@ -1,0 +1,1 @@
+Console.WriteLine("Hola, Chikitas! Bienvenidos a la calculadora de resta en equipo.");  
